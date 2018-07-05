@@ -14,3 +14,5 @@ When you run demo you will see image which is loaded.
 press 'e' and you will see filtered image in window.
 
 Hope you will enjoy it!!
+
+Please find article explaining Image Filter Seperability here [a link](https://pixelclear.github.io/technical/post/2017/10/29/Understanding-Image-Filter-Seperability.html)
