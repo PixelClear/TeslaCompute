@@ -16,3 +16,8 @@ press 'e' and you will see filtered image in window.
 Hope you will enjoy it!!
 
 Please find article explaining Image Filter Seperability here [a link](https://pixelclear.github.io/technical/post/2017/10/29/Understanding-Image-Filter-Seperability.html)
+
+Youtube Demo:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yVJW5H0Tk90/0.jpg)](https://www.youtube.com/watch?v=yVJW5H0Tk90)
+
